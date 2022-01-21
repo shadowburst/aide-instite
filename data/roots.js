@@ -125,7 +125,7 @@
     'CAR(N)- CHAR(N)-',
     'carnis',
     'chair',
-    'carnivore, carnage, carnassier, incarner, incarnat (couleur rouge) charnel, charnier, charnu, charogne, décharné, s’acharner,',
+    "carnivore, carnage, carnassier, incarner, incarnat (couleur rouge) charnel, charnier, charnu, charogne, décharné, s'acharner",
   ],
   [
     'CAT(A)-',
@@ -165,7 +165,7 @@
     '-CORD-',
     'cordis',
     'coeur',
-    's’accorder, concorder, discorde, cordial, miséricorde, raccorder',
+    "s'accorder, concorder, discorde, cordial, miséricorde, raccorder",
   ],
   [
     'COSM(O)-',
@@ -284,7 +284,7 @@
   [
     'ERR-',
     'errare',
-    'marcher à l’aventure',
+    "marcher à l'aventure",
     'errant, errer, errance, errements, erreur, aberrant, aberration',
   ],
   ['-ESTHÉS-', 'aisthêsis', 'sensation', 'anesthésie, kinesthésique'],
@@ -473,7 +473,8 @@
   ['-IATR-', 'iatros', 'médecin', 'gériatrie, pédiatre, psychiatre'],
   [
     '-JAC-, -JEC(T)-',
-    'jectum, de jacere',
+    'jectum',
+    'de jacere',
     'jeter, déjection, éjecter, injecter, projectile, projection, trajectoire, objecter, éjaculer',
   ],
   ['JUG-', 'jugum', 'joug, lien', 'conjugal, conjuguer, subjuguer'],
@@ -735,7 +736,8 @@
   ['OP(ÉR)-', 'operis', 'oeuvre, travail', 'coopérer, opérer, opéra'],
   [
     'OP(T)-, -OPS-',
-    'ôps, oeil, vue',
+    'ôps',
+    'oeil, vue',
     'optique, orthoptiste, cyclope, hypermétrope, nyctalope',
   ],
   [
@@ -860,7 +862,7 @@
   [
     'PLUR(I)-',
     'plures',
-    'plus d’un',
+    "plus d'un",
     'pluriel, pluriannuel, pluriculturel, plurilingue, plusieurs',
   ],
   ['POD(O)-', 'podos', 'pied', 'podologue, antipode, podium'],
@@ -958,7 +960,7 @@
     'ROG-',
     'rogare',
     'questionner',
-    'abroger, s’arroger, déroger, interroger, prérogative, proroger',
+    "abroger, s'arroger, déroger, interroger, prérogative, proroger",
   ],
   ['ROT', 'rota', 'roue', 'rotonde, rotule, rotation, rotatif'],
   ['RUB(É)-', 'rubere', 'être rouge', 'rubéole, rubescent, rubis'],
@@ -1008,7 +1010,10 @@
     'aseptiser, septique, antiseptique, aseptique, septicémie',
   ],
   [
-    'SÉQU-, SÉC(U)- , sequi, suivre, conséquent, séquelle, séquence, subséquent, second, secte, consécutif',
+    'SÉQU-, SÉC(U)-',
+    'sequi',
+    'suivre',
+    'conséquent, séquelle, séquence, subséquent, second, secte, consécutif',
   ],
   [
     'SERV-',
@@ -1199,12 +1204,12 @@
     'être fort',
     'valide, invalidité, convalescent, ambivalent, polyvalent, valeur, valoriser, valable, évaluer, équivalent',
   ],
-  ['VAN(T)-', 'vanus', 'vide', 'évanescent, s’évanouir, vanité, vanter'],
+  ['VAN(T)-', 'vanus', 'vide', "évanescent, s'évanouir, vanité, vanter"],
   [
     'VÉR(I)-',
     'verus',
     'vrai',
-    's’avérer, verdict, véracité, véridique, vérifier, vérité',
+    "s'avérer, verdict, véracité, véridique, vérifier, vérité",
   ],
   [
     'VERS-, VERT-',

@@ -25,7 +25,7 @@ const PrefixesPage = ({}) => {
     }
   };
 
-  const [title, meaning, examples] = prefixes[index];
+  const [title = '', meaning = '', examples = ''] = prefixes[index];
 
   const renderResults = () => {
     const success = meaning.toLowerCase().includes(answer.toLowerCase());
@@ -44,12 +44,16 @@ const PrefixesPage = ({}) => {
         >
           {success ? 'Vrai' : 'Faux'}
         </Text>
-        <Text style={{ ...formStyles.text, fontSize: 28 }}>
-          {`Sens : ${meaning}`}
-        </Text>
-        <Text style={{ ...formStyles.text, fontStyle: 'italic' }}>
-          {`Exemples : ${examples}`}
-        </Text>
+        {meaning !== '' && (
+          <Text style={{ ...formStyles.text, fontSize: 28 }}>
+            {`Sens : ${meaning}`}
+          </Text>
+        )}
+        {examples !== '' && (
+          <Text style={{ ...formStyles.text, fontStyle: 'italic' }}>
+            {`Exemples : ${examples}`}
+          </Text>
+        )}
       </View>
     );
   };
