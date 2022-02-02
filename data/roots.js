@@ -61,7 +61,7 @@
     'anarchie, hiérarchie, monarchie, patriarche, matriarcal, architecte',
   ],
   ['ARCH-', 'arkhaios', 'ancien', 'archaïque, archives, archéologie'],
-  ['-ARIUM', '–arium', 'lieu', 'aquarium, funérarium, planétarium, vivarium'],
+  ['-ARIUM', '-arium', 'lieu', 'aquarium, funérarium, planétarium, vivarium'],
   [
     'ASTRO-',
     'aster',
@@ -197,7 +197,8 @@
   [
     'CURS-, -CURR-',
     'cursum, currere',
-    'courir, curseur, précurseur, excursion, incursion, cursus, succursale ; concurrent, occurrence, récurrent',
+    'courir',
+    'curseur, précurseur, excursion, incursion, cursus, succursale ; concurrent, occurrence, récurrent',
   ],
   [
     'CYCL(O)-',
@@ -211,7 +212,7 @@
     'dix',
     'décade, décalitre, décamètre, décathlon, décennal, décennie, décimal',
   ],
-  ['DÉ(I)-', 'deus, dei', 'dieu, déesse, déifier, déisme'],
+  ['DÉ(I)-', 'deus, dei', 'dieu', 'déesse, déifier, déisme'],
   [
     'DÉM(O)-',
     'dêmos',
@@ -222,7 +223,8 @@
   [
     'DI-',
     'diem, dies',
-    'jour, diurne, méridien, midi, quotidien, jadis, mardi (=le jour de Mars, le dieu grec)',
+    'jour',
+    'diurne, méridien, midi, quotidien, jadis, mardi (=le jour de Mars, le dieu grec)',
   ],
   [
     'DIC(T)-',
@@ -369,7 +371,7 @@
     'géographie, géologie, géomètre, géode, géothermie, apogée',
   ],
   ['GÉRONT(O)-', 'gerontos', 'vieillard', 'gérontologie, gériatrie'],
-  ['GLOS-, -GLOTT-', 'glôssa, langue, glossaire, polyglotte'],
+  ['GLOS-, -GLOTT-', 'glôssa', 'langue', 'glossaire, polyglotte'],
   [
     'GLU(T)-',
     'glus, gluten',
@@ -473,9 +475,9 @@
   ['-IATR-', 'iatros', 'médecin', 'gériatrie, pédiatre, psychiatre'],
   [
     '-JAC-, -JEC(T)-',
-    'jectum',
-    'de jacere',
-    'jeter, déjection, éjecter, injecter, projectile, projection, trajectoire, objecter, éjaculer',
+    'jectum, de jacere',
+    'jeter',
+    'déjection, éjecter, injecter, projectile, projection, trajectoire, objecter, éjaculer',
   ],
   ['JUG-', 'jugum', 'joug, lien', 'conjugal, conjuguer, subjuguer'],
   ['KINÉ(SI)-', 'kinêsis', 'mouvement', 'kinésithérapie, kinesthésique'],
@@ -545,11 +547,13 @@
     'LOG-',
     'logos',
     'parole, discours',
-    'dialogue, prologue, épilogue, monologue, néologisme, chronologie, typologie, logique, morphologie - morphème servant former des noms de sciences, de méthodes etc : biologie, et métiers : podologue, psychologue',
+    'dialogue, prologue, épilogue, monologue, néologisme, chronologie, typologie, logique, morphologie',
   ],
   [
     'LOQU-, LOCU-',
-    'loqui, parler, éloquent, interloquer, loquace, colloque, locution, élocution, allocution, locuteur',
+    'loqui',
+    'parler',
+    'éloquent, interloquer, loquace, colloque, locution, élocution, allocution, locuteur',
   ],
   [
     'LU(V)-',
@@ -597,8 +601,7 @@
     'MÉD(I)-',
     'medius',
     'qui est au milieu',
-    'intermédiaire',
-    ';  média, médian, médiateur, médiation, médiéval, méditerranéen',
+    'intermédiaire, média, médian, médiateur, médiation, médiéval, méditerranéen',
   ],
   [
     'MÉD(IC)-',
@@ -671,7 +674,9 @@
   ],
   [
     '-MOV-, MOB- MOT',
-    'movere, bouger, amovible, mobile, commotion, émotif, émotion, motif, motivé, promotion, moteur',
+    'movere',
+    'bouger',
+    'amovible, mobile, commotion, émotif, émotion, motif, motivé, promotion, moteur',
   ],
   [
     'MULTI-',
@@ -701,7 +706,7 @@
     'neurone, neurologie, névralgie, névrose',
   ],
   ['NIHIL-', 'nihil', 'rien', 'annihiler, nihilisme'],
-  ['NOCT-, NOX-', 'nox, noctis', 'nuit, noctambule, nocturne, équinoxe'],
+  ['NOCT-, NOX-', 'nox, noctis', 'nuit', 'noctambule, nocturne, équinoxe'],
   ['NOC(U)-', 'nocere', 'nuire', 'nocif, innocent'],
   [
     '-NOM-',
@@ -849,7 +854,7 @@
     'PI(ET)-',
     'pius',
     'pieux',
-    'pitié » impie, pieux, piété, expier, pitié, apitoyer, impitoyable, pitance, piteux',
+    'pitié, impie, pieux, piété, expier, pitié, apitoyer, impitoyable, pitance, piteux',
   ],
   ['PIL(O)-', 'pilus', 'poil', 'épiler, horripiler, pileux, pilosité'],
   ['PLÉ(T)-', 'pletum', 'emplir', 'complet, suppléer, supplément'],
@@ -886,7 +891,9 @@
   ],
   [
     'PRAX-, PRAT-',
-    'praksis, action, dyspraxie, pratique, impraticable, praticien, pragmatique',
+    'praksis',
+    'action',
+    'dyspraxie, pratique, impraticable, praticien, pragmatique',
   ],
   ['PRÉC-', 'pretium', 'prix', 'apprécier, déprécier, précieux, préciosité'],
   [
@@ -993,7 +1000,8 @@
   [
     'SEC(T)-',
     'sectum, (secare)',
-    'couper, secteur, section, bissectrice, sécable, intersection, sécant, sécateur, vivisection, disséquer, segment',
+    'couper',
+    'secteur, section, bissectrice, sécable, intersection, sécant, sécateur, vivisection, disséquer, segment',
   ],
   ['SÉM(A)-', 'sêma', 'signe', 'monosémique, polysémie, sémaphore, sémantique'],
   ['SÉN-', 'senis', 'vieux', 'sénile, sénescence, sénat'],
@@ -1098,7 +1106,9 @@
   ],
   [
     'TACT-, TA(N)G',
-    'tactum (tangere), toucher, contact, intact, tact, tactile, contagion, tangent, tangible, contaminer, contigu',
+    'tactum (tangere)',
+    'toucher',
+    'contact, intact, tact, tactile, contagion, tangent, tangible, contaminer, contigu',
   ],
   ['-TAPHE', 'taphos', 'sépulture', 'cénotaphe, épitaphe'],
   ['TAX(I)-', 'taxis', 'arrangement', 'taxidermie, syntaxe'],
